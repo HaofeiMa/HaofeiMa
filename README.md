@@ -38,7 +38,7 @@ I'm Haofei Ma, a robot developer
 
 
 
-<div style="display: flex; justify-content: center;">
-   <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: 50%;" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: 50%;" />
+<div style="text-align: center;">
+   <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="display: inline-block;" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="display: inline-block;" />
 </div>
