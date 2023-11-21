@@ -44,12 +44,9 @@ I'm Haofei Ma, a robot developer
 ### 📇 Github statistics
 
 <div style="display: flex;">
-   <div style="flex: 1; padding: 1px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: 50%;" />
-   </div>
-   <div style="flex: 1; padding: 1px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: 50%;" />
-   </div>
+      <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: 48%;" />
+      &nbsp;
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: 48%;" />
 </div>
 
 ----
