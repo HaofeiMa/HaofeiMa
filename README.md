@@ -43,10 +43,14 @@ I'm Haofei Ma, a robot developer
 
 ### 📇 Github statistics
 
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa) |
-
+<div style="display: flex;">
+   <div style="flex: 1; padding: 1px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: auto; height: 100%;" />
+   </div>
+   <div style="flex: 1; padding: 1px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: auto; height: 100%;" />
+   </div>
+</div>
 
 ----
 
