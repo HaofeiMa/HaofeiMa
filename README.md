@@ -33,8 +33,12 @@ I'm Haofei Ma, a robot developer
 - 💻 I work using: ![](https://img.shields.io/badge/Python-lightyellow?logo=Python) ![](https://img.shields.io/badge/C%2B%2B-darkblue?logo=c%2B%2B) ![](https://img.shields.io/badge/Html5-red?logo=html5&logoColor=white)
 - 🌈 I'm very interested in 🎧 listening to music and 🏃 running.
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+****
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" />
+
+
+
+<div style="display: flex; justify-content: center;">
+   <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: 50%;" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: 50%;" />
 </div>
