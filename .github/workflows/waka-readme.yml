@@ -26,12 +26,12 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: last_30_days # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          # IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph # optional
           TARGET_BRANCH: master # optional
