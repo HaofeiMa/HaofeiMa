@@ -43,12 +43,12 @@ I'm Haofei Ma, a robot developer
 
 ### 📇 Github statistics
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border: none;">
    <tr>
-      <td style="border: none; padding: 3;">
+      <td style="border: none; padding: 1;">
          <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: auto; height: 100%;" />
       </td>
-      <td style="border: none; padding: 3;">
+      <td style="border: none; padding: 1;">
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: auto; height: 100%;" />
       </td>
    </tr>
