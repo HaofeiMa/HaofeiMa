@@ -18,6 +18,8 @@ Here are some ideas to get you started:
    <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&pause=1000&color=000000&random=false&width=435&lines=Haofei+Ma+-+Infinite+Advancing" alt="Typing SVG" />
 </p>
 
+![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHaofeiMa&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=Github&color=black) ![](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fblog.csdn.net%2Fweixin_44543463&query=%2F%2Fli%5B3%5D%2Fdiv%2Fspan%5B1%5D%2Ftext()%5B1%5D&suffix=%20stars&logo=csdn&label=CSDN&color=red)
+
 ### Hi there 👋
 
 I'm Haofei Ma, a robot developer
@@ -31,4 +33,8 @@ I'm Haofei Ma, a robot developer
 - 💻 I work using: ![](https://img.shields.io/badge/Python-lightyellow?logo=Python) ![](https://img.shields.io/badge/C%2B%2B-darkblue?logo=c%2B%2B) ![](https://img.shields.io/badge/Html5-red?logo=html5&logoColor=white)
 - 🌈 I'm very interested in 🎧 listening to music and 🏃 running.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" />
+</div>
