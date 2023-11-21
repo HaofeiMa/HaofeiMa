@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&pause=1000&color=000000&random=false&width=435&lines=Haofei+Ma+-+Infinite+Advancing" alt="Typing SVG" />
-
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=24&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=Haofei+Ma+-+Infinite+Advancing" alt="Typing SVG" /></a>
 </p>
+
 <div align="center">
 
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHaofeiMa&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=Github&color=black)](https://github.com/HaofeiMa)
