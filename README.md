@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&pause=1000&color=000000&random=false&width=435&lines=Haofei+Ma+-+Infinite+Advancing" alt="Typing SVG" />
-   [](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHaofeiMa&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=Github&color=black) 
-   [](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fblog.csdn.net%2Fweixin_44543463&query=%2F%2Fli%5B3%5D%2Fdiv%2Fspan%5B1%5D%2Ftext()%5B1%5D&suffix=%20stars&logo=csdn&label=CSDN&color=red)
 
 </p>
+<div align="center">
 
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHaofeiMa&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=Github&color=black)](https://github.com/HaofeiMa)
+[![](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fblog.csdn.net%2Fweixin_44543463&query=%2F%2Fli%5B3%5D%2Fdiv%2Fspan%5B1%5D%2Ftext()%5B1%5D&suffix=%20stars&logo=csdn&label=CSDN&color=red)](https://blog.csdn.net/weixin_44543463)
+
+</div>
 
 ### Hi there 👋
 
@@ -36,7 +39,24 @@ I'm Haofei Ma, a robot developer
 - 🌈 I'm very interested in 🎧 listening to music and 🏃 running.
 
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" border=0></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" border=0></td>
-</tr></table>
+----
+
+### 📇 Github statistics
+
+<table style="border-collapse: collapse;">
+   <tr>
+      <td style="border: none; padding: 3;">
+         <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: auto; height: 100%;" />
+      </td>
+      <td style="border: none; padding: 3;">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: auto; height: 100%;" />
+      </td>
+   </tr>
+</table>
+
+----
+
+### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
