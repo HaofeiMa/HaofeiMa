@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DHaofeiMa&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=Github&color=black)](https://github.com/HaofeiMa)
-[![](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fblog.csdn.net%2Fweixin_44543463&query=%2F%2Fli%5B3%5D%2Fdiv%2Fspan%5B1%5D%2Ftext()%5B1%5D&suffix=%20stars&logo=csdn&label=CSDN&color=red)](https://blog.csdn.net/weixin_44543463)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FHaofeiMa&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/HaofeiMa)
+[![](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fblog.csdn.net%2Fweixin_44543463&query=%2F%2Fli%5B3%5D%2Fdiv%2Fspan%5B1%5D%2Ftext()%5B1%5D&suffix=%20stars&logo=c&label=CSDN&color=red)](https://blog.csdn.net/weixin_44543463)
 
 </div>
 
