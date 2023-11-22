@@ -55,10 +55,8 @@ I'm Haofei Ma, a robot developer
 
 <!--START_SECTION:waka-->
 
-```rust
+```python
 From: 22 October 2023 - To: 21 November 2023
-
-Total Time: 2 hrs 22 mins
 
 Python       1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.42 %
 YAML         48 mins         ████████░░░░░░░░░░░░░░░░░   32.51 %
