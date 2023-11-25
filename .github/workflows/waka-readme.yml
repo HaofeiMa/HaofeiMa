@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 4 PM UTC (00:00 Beijing)
+    # runs at 0 AM UTC (00:00 Beijing)
     - cron: "0 0 * * *"
 
 jobs:
