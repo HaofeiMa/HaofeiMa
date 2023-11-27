@@ -51,7 +51,7 @@ I'm Haofei Ma, a robot developer
 
 ----
 
-### 📊 Monthly development breakdown
+### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 
