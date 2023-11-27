@@ -28,7 +28,7 @@ jobs:
           TIME_RANGE: last_7_days # optional
           LANG_COUNT: 6 # optional
           SHOW_TIME: true # optional
-          SHOW_TOTAL: false # optional
+          SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
