@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FHaofeiMa&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/HaofeiMa)
 [![](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fblog.csdn.net%2Fweixin_44543463&query=%2F%2Fli%5B3%5D%2Fdiv%2Fspan%5B1%5D%2Ftext()%5B1%5D&suffix=%20stars&logo=c&label=CSDN&color=red)](https://blog.csdn.net/weixin_44543463)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40HaofeiMa%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/HaofeiMa)
 
 </div>
 
