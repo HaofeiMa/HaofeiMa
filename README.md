@@ -57,16 +57,16 @@ I'm Haofei Ma, a robot developer
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Total Time: 4 hrs 44 mins
+Total Time: 5 hrs 23 mins
 
-Python        1 hr 57 mins    ██████████▒░░░░░░░░░░░░░░   41.34 %
-CMake         1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
-C++           55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Markdown      35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-Makefile      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-XML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python        2 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.83 %
+CMake         1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+C++           55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Markdown      35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Makefile      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
