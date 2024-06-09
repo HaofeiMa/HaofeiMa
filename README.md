@@ -57,7 +57,7 @@ I'm Haofei Ma, a robot developer
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 Total Time: 3 hrs 44 mins
 
