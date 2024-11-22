@@ -53,11 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Total Time: 57 mins
+Total Time: 5 hrs 4 mins
 
-Python   57 mins         █████████████████████████   100.00 %
+Python   5 hrs           ████████████████████████▓   98.43 %
+Bash     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
