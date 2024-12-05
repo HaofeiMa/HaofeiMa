@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 November 2024 - To: 03 December 2024
+From: 27 November 2024 - To: 04 December 2024
 
-Total Time: 3 hrs 8 mins
+Total Time: 2 hrs 56 mins
 
-XML          29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-YAML         28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Bash         26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-JavaScript   22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Pug          19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Markdown     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+XML          29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+Bash         26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+YAML         23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+JavaScript   22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+Pug          19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Markdown     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
 ```
 
 <!--END_SECTION:waka-->
