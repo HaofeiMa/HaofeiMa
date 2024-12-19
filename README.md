@@ -53,14 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 30 mins
 
-Markdown   1 hr 16 mins    ███████████████████████▓░   95.02 %
-YAML       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Pug        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown   1 hr 16 mins    ███████████████████▓░░░░░   78.78 %
+Python     10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Other      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
