@@ -53,12 +53,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 February 2025 - To: 06 March 2025
+From: 28 February 2025 - To: 07 March 2025
 
-Total Time: 9 hrs 40 mins
+Total Time: 12 hrs 50 mins
 
-Python     8 hrs 51 mins   █████████████████████▒░░░   85.00 %
-Other      44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Python     12 hrs 21 mins  ████████████████████████░   95.90 %
+XML        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
