@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-Total Time: 2 hrs 11 mins
+Total Time: 3 hrs 41 mins
 
-Python   1 hr 11 mins    █████████████▒░░░░░░░░░░░   53.47 %
-Bash     1 hr            ███████████▒░░░░░░░░░░░░░   45.13 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python   1 hr 53 mins    ████████████▓░░░░░░░░░░░░   50.58 %
+Bash     1 hr 48 mins    ████████████░░░░░░░░░░░░░   48.58 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
