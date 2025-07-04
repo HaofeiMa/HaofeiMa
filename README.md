@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Total Time: 15 mins
+Total Time: 9 mins
 
-JSON         8 mins          █████████████▒░░░░░░░░░░░   53.46 %
-Python       6 mins          ██████████▒░░░░░░░░░░░░░░   41.63 %
-SSH Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+JSON         8 mins          █████████████████████░░░░   84.59 %
+Python       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+SSH Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
