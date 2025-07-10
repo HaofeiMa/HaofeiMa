@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
 Total Time: 46 mins
 
