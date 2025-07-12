@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 July 2025 - To: 10 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
-Total Time: 46 mins
+Total Time: 1 hr 51 mins
 
-Python       30 mins         ████████████████▒░░░░░░░░   65.23 %
-YAML         13 mins         ███████▒░░░░░░░░░░░░░░░░░   28.74 %
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python       1 hr 29 mins    ████████████████████░░░░░   79.83 %
+YAML         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
