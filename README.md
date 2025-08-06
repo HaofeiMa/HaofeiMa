@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Total Time: 8 hrs 8 mins
+Total Time: 7 hrs 56 mins
 
-Python     8 hrs 7 mins    ████████████████████████▓   98.23 %
-Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Python     7 hrs 44 mins   ████████████████████████░   95.95 %
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
