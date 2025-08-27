@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 14 hrs 52 mins
+Total Time: 15 hrs 47 mins
 
-Python     14 hrs 8 mins   ███████████████████████▓░   95.08 %
-JSON       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python     13 hrs 49 mins  ██████████████████████░░░   87.57 %
+JSON       1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
