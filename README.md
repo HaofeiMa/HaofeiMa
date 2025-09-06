@@ -53,14 +53,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 4 hrs 13 mins
+Total Time: 0 secs
 
-Python       3 hrs 56 mins   ██████████████████████▓░░   91.31 %
-Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-SSH Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
