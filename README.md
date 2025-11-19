@@ -53,16 +53,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 4 hrs 58 mins
+Total Time: 4 hrs 48 mins
 
-Python       3 hrs 19 mins   ████████████████▓░░░░░░░░   66.92 %
-Bash         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Markdown     35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-YAML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python     3 hrs 38 mins   ███████████████████░░░░░░   75.56 %
+Bash       33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+YAML       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Markdown   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
