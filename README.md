@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Total Time: 15 hrs 31 mins
+Total Time: 11 hrs 44 mins
 
-Python       12 hrs 50 mins  ████████████████████▓░░░░   82.44 %
-XML          1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Bash         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Markdown     30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Text         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python       10 hrs 9 mins   █████████████████████▓░░░   86.10 %
+Bash         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Text         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
