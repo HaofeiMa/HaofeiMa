@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 8 hrs 14 mins
+Total Time: 8 hrs 33 mins
 
-TeX            4 hrs 21 mins   █████████████▒░░░░░░░░░░░   52.76 %
-Python         3 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   39.12 %
-BibTeX         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Bash           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-JSON           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TeX            4 hrs 19 mins   ████████████▓░░░░░░░░░░░░   50.54 %
+Python         3 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+BibTeX         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Bash           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+YAML           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
