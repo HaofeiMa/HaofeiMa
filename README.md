@@ -53,16 +53,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 5 hrs 55 mins
+Total Time: 2 hrs 18 mins
 
-TeX        3 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.63 %
-Python     1 hr 41 mins    ███████░░░░░░░░░░░░░░░░░░   28.45 %
-BibTeX     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Bash       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-YAML       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Python     1 hr 41 mins    ██████████████████▒░░░░░░   73.24 %
+Bash       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+Markdown   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+YAML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
 ```
 
 <!--END_SECTION:waka-->
