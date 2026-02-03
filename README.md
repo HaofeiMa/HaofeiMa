@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 January 2026 - To: 01 February 2026
+From: 26 January 2026 - To: 02 February 2026
 
-Total Time: 8 hrs 30 mins
+Total Time: 12 hrs 47 mins
 
-Python       7 hrs 3 mins    ████████████████████▓░░░░   82.72 %
-Markdown     39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Bash         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-YAML         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python       9 hrs 52 mins   ███████████████████▒░░░░░   77.06 %
+Text         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Markdown     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Bash         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+YAML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
