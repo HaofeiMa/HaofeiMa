@@ -53,11 +53,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Total Time: 0 secs
+Total Time: 29 mins
 
-No activity tracked
+YAML     14 mins               ████████████░░░░░░░░░░░░░   48.47 %
+Python   9 mins                ████████▒░░░░░░░░░░░░░░░░   32.96 %
+TeX      3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+BibTeX   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
 ```
 
 <!--END_SECTION:waka-->
