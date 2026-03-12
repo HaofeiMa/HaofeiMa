@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 March 2026 - To: 10 March 2026
+From: 04 March 2026 - To: 11 March 2026
 
-Total Time: 3 hrs 53 mins
+Total Time: 3 hrs 40 mins
 
-TeX          1 hr 25 mins          █████████░░░░░░░░░░░░░░░░   36.48 %
-C++          51 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-Python       32 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Markdown     26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-SSH Config   26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-BibTeX       10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+TeX          1 hr 25 mins          █████████▓░░░░░░░░░░░░░░░   38.58 %
+C++          51 mins               ██████░░░░░░░░░░░░░░░░░░░   23.52 %
+Python       32 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+SSH Config   26 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Markdown     24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+BibTeX       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
