@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 March 2026 - To: 30 March 2026
+From: 24 March 2026 - To: 31 March 2026
 
-Total Time: 2 hrs 44 mins
+Total Time: 2 hrs 9 mins
 
-TeX      1 hr 54 mins          █████████████████░░░░░░░░   67.74 %
-BibTeX   31 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-Python   19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Other    3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+TeX      1 hr 18 mins          ██████████████▓░░░░░░░░░░   59.21 %
+BibTeX   31 mins               ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+Python   19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Other    3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
