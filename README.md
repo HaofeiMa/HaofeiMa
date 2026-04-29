@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 April 2026 - To: 27 April 2026
+From: 21 April 2026 - To: 28 April 2026
 
-Total Time: 30 hrs 35 mins
+Total Time: 26 hrs 26 mins
 
-Python       25 hrs 28 mins        ███████████████████░░░░░░   75.55 %
-Other        3 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Python       22 hrs 10 mins        ██████████████████▓░░░░░░   74.29 %
+Other        3 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
 ```
 
 <!--END_SECTION:waka-->
