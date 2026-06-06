@@ -53,14 +53,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 May 2026 - To: 03 June 2026
+From: 29 May 2026 - To: 05 June 2026
 
-Total Time: 34 mins
+Total Time: 39 mins
 
-Python       25 mins               ██████████████████▓░░░░░░   74.59 %
-TeX          5 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-SSH Config   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown   25 mins               ██████████▒░░░░░░░░░░░░░░   41.90 %
+Other      21 mins               ████████▓░░░░░░░░░░░░░░░░   35.10 %
 ```
 
 <!--END_SECTION:waka-->
