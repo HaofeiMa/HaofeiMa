@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 June 2026 - To: 05 July 2026
+From: 29 June 2026 - To: 06 July 2026
 
-Total Time: 22 hrs 45 mins
+Total Time: 19 hrs 40 mins
 
-Python       18 hrs 3 mins         ██████████████████▓░░░░░░   74.88 %
-Markdown     1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Other        1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Python       15 hrs 35 mins        ██████████████████▓░░░░░░   74.36 %
+Markdown     1 hr 38 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Other        1 hr 18 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
