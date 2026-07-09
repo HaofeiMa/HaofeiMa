@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 June 2026 - To: 07 July 2026
+From: 01 July 2026 - To: 08 July 2026
 
-Total Time: 19 hrs 19 mins
+Total Time: 14 hrs 17 mins
 
-Python       15 hrs 43 mins        ████████████████████░░░░░   79.55 %
-Markdown     1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Text         56 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JavaScript   33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JSON         28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-C++          28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Python       11 hrs 52 mins        ████████████████████▒░░░░   81.78 %
+Text         43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Markdown     40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JavaScript   33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+JSON         28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Other        13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
