@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 1 hr 56 mins
+Total Time: 1 hr 31 mins
 
-Markdown     1 hr 31 mins          █████████████░░░░░░░░░░░░   52.56 %
-Other        57 mins               ████████▒░░░░░░░░░░░░░░░░   33.13 %
+Markdown   1 hr 9 mins           ████████████░░░░░░░░░░░░░   48.00 %
+Other      52 mins               █████████░░░░░░░░░░░░░░░░   36.59 %
 ```
 
 <!--END_SECTION:waka-->
