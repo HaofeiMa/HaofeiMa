@@ -53,16 +53,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Total Time: 9 hrs 16 mins
+Total Time: 8 hrs 6 mins
 
-TeX            2 hrs 16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-Markdown       1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-JavaScript     1 hr 1 min            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Image (png)    54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Python         50 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-JSON           45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Other          1 hr 27 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
 ```
 
 <!--END_SECTION:waka-->
