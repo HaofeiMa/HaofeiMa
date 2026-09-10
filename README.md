@@ -1,68 +1,40 @@
-
-<!--
-**HaofeiMa/HaofeiMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=24&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=Haofei+Ma+-+Infinite+Advancing" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
 
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FHaofeiMa&query=stars&suffix=%20stars&logo=Github&label=Github&color=blue)](https://github.com/HaofeiMa)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40HaofeiMa%2F73835383-9c0c-4e6c-9641-27b248e942c2.json&query=%24.data.grand_total.human_readable_total_including_other_language&logo=wakatime&label=CodeTime&color=blue)](https://github.com/HaofeiMa)
+# Haofei Ma 👋
+
+**PhD Researcher in Robotics**
+
+*MR-assisted Haptic Teleoperation · Contact-Rich Manipulation · Egocentric Robot Learning*
+
+[![Website](https://img.shields.io/badge/Website-haofei.ma-blue?logo=googlechrome\&logoColor=white)](https://haofei.ma)
+[![Email](https://img.shields.io/badge/Email-hi%40haofei.ma-darkred?logo=gmail\&logoColor=white)](mailto:hi@haofei.ma)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FHaofeiMa&query=stars&suffix=%20stars&logo=Github&label=Github&color=dark)](https://github.com/HaofeiMa)
 
 </div>
 
-### Hi there 👋
+---
 
-- 🏫 I'm pursuing my Ph.D degree at The Hong Kong Polytechnic University (PolyU).
-- 🔍 Focusing on robot learning, human-robot collaboration and robot teleoperation.
-- 📃 Mv CV 👉 [academic.mahaofei.com](https://academic.mahaofei.com/)
-- 📝 My Blog 👉 [www.mahaofei.com](https://www.mahaofei.com/)
-- 📬 My E-mail: [mail@mahaofei.com](mailto:mail@mahaofei.com)
-- 🚀 I use daily: ![](https://img.shields.io/badge/Python-lightyellow?logo=Python) ![](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B) ![](https://img.shields.io/badge/Git-black?logo=Git) ![](https://img.shields.io/badge/Shell-red?logo=Shell)
-- 💻 I work using: ![](https://img.shields.io/badge/ROS-darkblue?logo=ros) ![](https://img.shields.io/badge/Isaac%20Sim-gray?logo=nvidia) ![](https://img.shields.io/badge/Mujoco-darkblue?logo=monster&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EEEEFF?logo=Pytorch)
-- 🌈 I'm very interested in 🎧 listening to music and 🏃 running.
+### 🤖 About me
 
-----
+I'm a PhD researcher at **The Hong Kong Polytechnic University (PolyU)**, working on **robot learning and human-robot interaction**.
 
-### 📇 Github statistics
+My research explores how robots can learn dexterous, contact-rich skills from humans by capturing not only **how people move**, but also **how they perceive and regulate physical contact** during manipulation.
 
-<div style="display: flex;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HaofeiMa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="width: 50%;" />
-      &nbsp;
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaofeiMa" style="width: 46%;" />
-</div>
+I am particularly interested in multimodal human demonstrations, egocentric interaction, visuo-tactile learning, and intuitive robot teleoperation.
 
-----
+### 🔬 Research interests
 
-### 📊 Weekly development breakdown
+* **Human-to-Robot Skill Learning** — learning robot skills from natural human demonstrations
+* **Contact-Rich Manipulation** — integrating vision, touch, force, and motion for dexterous tasks
+* **Multimodal Robot Learning** — asynchronous and multi-frequency visuo-tactile representations
+* **Human-Robot Teleoperation** — wearable and immersive interfaces for intuitive robot control
 
-<!--START_SECTION:waka-->
+### 🛠️ Research stack
 
-```python
-From: 02 September 2026 - To: 09 September 2026
+`Python` · `C++` · `PyTorch` · `ROS` · `MuJoCo` · `Isaac Sim`
 
-Total Time: 16 hrs 26 mins
+### 🌱 Beyond research
 
-TypeScript     6 hrs 30 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
-Markdown       3 hrs 33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-Astro          2 hrs 36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Image (png)    1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Text           1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-CSS            24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-```
+I enjoy building things, writing about what I learn, listening to music 🎧, and running 🏃.
 
-<!--END_SECTION:waka-->
+You can find more about my research, projects, publications, and blog at **[haofei.ma](https://haofei.ma)**.
